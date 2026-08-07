@@ -1,0 +1,2 @@
+Figure 7 shows the evolution of the predictive mean and uncertainty (depicted as intervals ±2σ) at iterations 5, 10, and 15, where the Selected experiment locations are indicated as red dots.
+Due to the random nature of these simulations, rerunning the code will produce statistically equivalent results but not identical datasets. The data set is published as Figure7_data.csv, with the code to plot the data in Figure7_reproduce.m. 
