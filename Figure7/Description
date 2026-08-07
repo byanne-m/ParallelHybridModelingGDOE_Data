@@ -1,2 +1,5 @@
-Figure 7 shows the evolution of the predictive mean and uncertainty (depicted as intervals ±2σ) at iterations 5, 10, and 15, where the Selected experiment locations are indicated as red dots.
+Evolution of the predictive mean and uncertainty for the parametric, GP, and hybrid models during sequential experimental design. Results are shown after 5, 10, and 15 sequential-design iterations. 
+Solid colored lines denote the predictive means, shaded regions represent ±2 predictive standard deviations, and red markers denote the noisy experimental observations available to each model. The black curve represents the synthetic ground truth.
+Experiments are selected only within 0≤x≤15; the gray region (15<x≤20) therefore represents extrapolation beyond the experimental-design domain.
+All three methods begin from the same three initial experiments at x=0,7.5,15. Subsequent experiments are selected sequentially from the discrete candidate set x=0:0.1:15, with previously sampled locations excluded. 
 Due to the random nature of these simulations, rerunning the code will produce statistically equivalent results but not identical datasets. The data set is published as Figure7_data.csv, with the code to plot the data in Figure7_reproduce.m. 
