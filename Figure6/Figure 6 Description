@@ -1,2 +1,3 @@
 This figure is a plot of the decomposed synthtic mdoel with an additive parallel structure defined in Equations 11 and 12 of the paper. 
 The csv file contains the data pertaining to the (a) mechanistic component $f(x,\boldsymbol{\theta}_{\text{true}})$, (b) data-driven correction $g(x)$, and (c) complete system $y = f(x,\boldsymbol{\theta}_{\text{true}}) + g(x)$.
+The matalb code to generate the figure can be found in generate_fig6.m 
