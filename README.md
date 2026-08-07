@@ -7,6 +7,9 @@ This repository contains the numerical data used to generate the majority of fig
 Figure 6
 - Decomposed Synthetic hybrid model 
 
+Figure 7
+-The three models of the synthetic example after designing 5, 10, and 15 experiments. 
+
 Figure 8
 - MSE evolution with sequential experiments for the simple synthetic model.
 
